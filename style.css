@@ -1,0 +1,44 @@
+#cv{
+    color: #00008B;
+    text-transform: capitalize;
+    font-weight: 1000;
+}
+#h1tag{
+    font-weight: 750;
+    color: orangered;
+    /* font-stretch: narrower; */
+}
+.container{
+    font-weight: bold;
+}
+cv-form{
+    display: none;
+}
+#cv-form{
+    /* display: none; */
+}
+#cv-template{
+    display: none;
+}
+.myimg{
+    border-radius: 50%;
+    width: 160px;
+    /* height: 300px; */
+}
+.background{
+    background-color: aqua;
+    border-radius: 1px;
+    padding: 10px;
+}
+#pButtn{
+    background-color: crimson;
+    color: whitesmoke;
+    /* display: flex; */
+    border: 1px;
+}
+#ytT, #instaT , #fbT{
+    color: rebeccapurple;
+}
+#imgTemplate{
+    height: 160px;
+}
